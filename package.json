@@ -1,0 +1,9 @@
+{
+  "name": "snake-play-counter",
+  "version": "1.0.0",
+  "main": "api/playcount.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
